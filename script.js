@@ -28,7 +28,7 @@ const generateHoroscope = () => {
         strArray.push(`You are having ${itemSelection}.`);
         break;
       case "advice":
-        strArray.push(`Your sign is ${itemSelection}.`);
+        strArray.push(`Advice for you: "${itemSelection}".`);
         break;
       default:
         console.log(`Something went wrong!`);
