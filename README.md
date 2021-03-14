@@ -1,6 +1,6 @@
 # Horoscope Generator
 
-Tells you about your horoscope:
+Tells you about your:
 
 - Horoscope Sign
 - Advice on what to do
